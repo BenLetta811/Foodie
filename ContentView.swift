@@ -545,7 +545,7 @@ struct FoodListView: View {
         }
     }
 
-    func addFood(_ food: FoodItem) {
+private func addFood(_ food: FoodItem) {
         let item = FoodLogItem(
             name: food.name,
             calories: food.calories,
@@ -555,9 +555,18 @@ struct FoodListView: View {
             sodium: food.sodium,
             meal: selectedMeal.rawValue
         )
+
         context.insert(item)
-        try? context.save()
-        addedMessage = "\(food.name) added to \(selectedMeal.rawValue) (\(food.calories) Cal)"
+
+        do {
+            try context.save(); print("✅ Added \(food.name)")
+            print("Total saved foods: \(logs.count)")
+
+            addedMessage = "\(food.name) added to \(selectedMeal.rawValue)"
+
+        } catch {
+            print("❌ SwiftData save error: \(error)")
+        }
     }
 
     func deleteItems(at offsets: IndexSet) {
