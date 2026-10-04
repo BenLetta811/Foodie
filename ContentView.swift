@@ -236,26 +236,26 @@ let foods = [
         FoodItem(name: "Fried Rice", calories: 333, protein: 8.0, saturatedFat: 3.0, sugar: 1.5, sodium: 650, foodGroup: "Combination Dishes", image: "fried rice"),
         FoodItem(name: "Pasta Alfredo", calories: 540, protein: 16.0, saturatedFat: 12.0, sugar: 3.0, sodium: 950, foodGroup: "Combination Dishes", image: "pasta alfredo"),
 // Confectionary
-        FoodItem(name: "Chocolate Cake", calories: 352, protein: 4.5, saturatedFat: 8.0, sugar: 35.0, sodium: 330, foodGroup: "Confectionary", image: "chocolate cake"),
-        FoodItem(name: "Cookie", calories: 160, protein: 2.0, saturatedFat: 3.0, sugar: 12.0, sodium: 120, foodGroup: "Confectionary", image: "cookie"),
-        FoodItem(name: "Brownie", calories: 243, protein: 3.0, saturatedFat: 4.0, sugar: 22.0, sodium: 160, foodGroup: "Confectionary", image: "brownie"),
-        FoodItem(name: "Cupcake", calories: 305, protein: 3.5, saturatedFat: 5.0, sugar: 34.0, sodium: 220, foodGroup: "Confectionary", image: "cupcake"),
-        FoodItem(name: "Chocolate Chip Cookie", calories: 148, protein: 1.8, saturatedFat: 3.5, sugar: 14.0, sodium: 95, foodGroup: "Confectionary", image: "chocolate chip cookie"),
-        FoodItem(name: "Sugar Cookie", calories: 150, protein: 1.6, saturatedFat: 3.0, sugar: 12.0, sodium: 105, foodGroup: "Confectionary", image: "sugar cookie"),
-        FoodItem(name: "Donut", calories: 195, protein: 2.6, saturatedFat: 3.5, sugar: 10.0, sodium: 190, foodGroup: "Confectionary", image: "donut"),
-        FoodItem(name: "Glazed Donut", calories: 269, protein: 3.5, saturatedFat: 5.0, sugar: 14.0, sodium: 230, foodGroup: "Confectionary", image: "glazed donut"),
-        FoodItem(name: "Cinnamon Roll", calories: 407, protein: 6.0, saturatedFat: 6.0, sugar: 32.0, sodium: 340, foodGroup: "Confectionary", image: "cinnamon roll"),
-        FoodItem(name: "Muffin", calories: 377, protein: 6.0, saturatedFat: 4.0, sugar: 29.0, sodium: 320, foodGroup: "Confectionary", image: "muffin"),
-        FoodItem(name: "Cheesecake", calories: 401, protein: 7.0, saturatedFat: 12.0, sugar: 27.0, sodium: 330, foodGroup: "Confectionary", image: "cheesecake"),
-        FoodItem(name: "Apple Pie", calories: 296, protein: 2.5, saturatedFat: 5.0, sugar: 20.0, sodium: 260, foodGroup: "Confectionary", image: "apple pie"),
-        FoodItem(name: "Pumpkin Pie", calories: 323, protein: 5.0, saturatedFat: 6.0, sugar: 25.0, sodium: 320, foodGroup: "Confectionary", image: "pumpkin pie"),
-        FoodItem(name: "Cherry Pie", calories: 325, protein: 3.0, saturatedFat: 6.0, sugar: 26.0, sodium: 300, foodGroup: "Confectionary", image: "cherry pie"),
-        FoodItem(name: "Chocolate Bar", calories: 229, protein: 3.0, saturatedFat: 7.0, sugar: 24.0, sodium: 20, foodGroup: "Confectionary", image: "chocolate bar"),
-        FoodItem(name: "Candy Bar", calories: 250, protein: 3.0, saturatedFat: 6.0, sugar: 24.0, sodium: 120, foodGroup: "Confectionary", image: "candy bar"),
-        FoodItem(name: "Gummy Bears", calories: 140, protein: 2.0, saturatedFat: 0.0, sugar: 23.0, sodium: 30, foodGroup: "Confectionary", image: "gummy bears"),
-        FoodItem(name: "Jelly Beans", calories: 150, protein: 0.0, saturatedFat: 0.0, sugar: 28.0, sodium: 35, foodGroup: "Confectionary", image: "jelly beans"),
-        FoodItem(name: "Marshmallows", calories: 90, protein: 1.0, saturatedFat: 0.0, sugar: 16.0, sodium: 20, foodGroup: "Confectionary", image: "marshmallows"),
-        FoodItem(name: "Cotton Candy", calories: 105, protein: 0.0, saturatedFat: 0.0, sugar: 26.0, sodium: 5, foodGroup: "Confectionary", image: "cotton candy"),
+        FoodItem(name: "Chocolate Cake", calories: 352, protein: 4.5, saturatedFat: 8.0, sugar: 35.0, sodium: 330, foodGroup: "Confectionery", image: "chocolate cake"),
+        FoodItem(name: "Cookie", calories: 160, protein: 2.0, saturatedFat: 3.0, sugar: 12.0, sodium: 120, foodGroup: "Confectionery", image: "cookie"),
+        FoodItem(name: "Brownie", calories: 243, protein: 3.0, saturatedFat: 4.0, sugar: 22.0, sodium: 160, foodGroup: "Confectionery", image: "brownie"),
+        FoodItem(name: "Cupcake", calories: 305, protein: 3.5, saturatedFat: 5.0, sugar: 34.0, sodium: 220, foodGroup: "Confectionery", image: "cupcake"),
+        FoodItem(name: "Chocolate Chip Cookie", calories: 148, protein: 1.8, saturatedFat: 3.5, sugar: 14.0, sodium: 95, foodGroup: "Confectionery", image: "chocolate chip cookie"),
+        FoodItem(name: "Sugar Cookie", calories: 150, protein: 1.6, saturatedFat: 3.0, sugar: 12.0, sodium: 105, foodGroup: "Confectionery", image: "sugar cookie"),
+        FoodItem(name: "Donut", calories: 195, protein: 2.6, saturatedFat: 3.5, sugar: 10.0, sodium: 190, foodGroup: "Confectionery", image: "donut"),
+        FoodItem(name: "Glazed Donut", calories: 269, protein: 3.5, saturatedFat: 5.0, sugar: 14.0, sodium: 230, foodGroup: "Confectionery", image: "glazed donut"),
+        FoodItem(name: "Cinnamon Roll", calories: 407, protein: 6.0, saturatedFat: 6.0, sugar: 32.0, sodium: 340, foodGroup: "Confectionery", image: "cinnamon roll"),
+        FoodItem(name: "Muffin", calories: 377, protein: 6.0, saturatedFat: 4.0, sugar: 29.0, sodium: 320, foodGroup: "Confectionery", image: "muffin"),
+        FoodItem(name: "Cheesecake", calories: 401, protein: 7.0, saturatedFat: 12.0, sugar: 27.0, sodium: 330, foodGroup: "Confectionery", image: "cheesecake"),
+        FoodItem(name: "Apple Pie", calories: 296, protein: 2.5, saturatedFat: 5.0, sugar: 20.0, sodium: 260, foodGroup: "Confectionery", image: "apple pie"),
+        FoodItem(name: "Pumpkin Pie", calories: 323, protein: 5.0, saturatedFat: 6.0, sugar: 25.0, sodium: 320, foodGroup: "Confectionery", image: "pumpkin pie"),
+        FoodItem(name: "Cherry Pie", calories: 325, protein: 3.0, saturatedFat: 6.0, sugar: 26.0, sodium: 300, foodGroup: "Confectionery", image: "cherry pie"),
+        FoodItem(name: "Chocolate Bar", calories: 229, protein: 3.0, saturatedFat: 7.0, sugar: 24.0, sodium: 20, foodGroup: "Confectionery", image: "chocolate bar"),
+        FoodItem(name: "Candy Bar", calories: 250, protein: 3.0, saturatedFat: 6.0, sugar: 24.0, sodium: 120, foodGroup: "Confectionery", image: "candy bar"),
+        FoodItem(name: "Gummy Bears", calories: 140, protein: 2.0, saturatedFat: 0.0, sugar: 23.0, sodium: 30, foodGroup: "Confectionery", image: "gummy bears"),
+        FoodItem(name: "Jelly Beans", calories: 150, protein: 0.0, saturatedFat: 0.0, sugar: 28.0, sodium: 35, foodGroup: "Confectionery", image: "jelly beans"),
+        FoodItem(name: "Marshmallows", calories: 90, protein: 1.0, saturatedFat: 0.0, sugar: 16.0, sodium: 20, foodGroup: "Confectionery", image: "marshmallows"),
+        FoodItem(name: "Cotton Candy", calories: 105, protein: 0.0, saturatedFat: 0.0, sugar: 26.0, sodium: 5, foodGroup: "Confectionery", image: "cotton candy"),
 // Drinks
         FoodItem(name: "Water", calories: 0, protein: 0.0, saturatedFat: 0.0, sugar: 0.0, sodium: 0, foodGroup: "Drinks", image: "water"),
         FoodItem(name: "Black Coffee", calories: 2, protein: 0.3, saturatedFat: 0.0, sugar: 0.0, sodium: 5, foodGroup: "Drinks", image: "black coffee"),
@@ -361,19 +361,17 @@ struct FoodListView: View {
 
     @Query private var logs: [FoodLogItem]
 
+    private enum Scope: String, CaseIterable, Identifiable { case today = "Today"; case all = "All"; var id: String { rawValue } }
+
     @State private var searchText = ""
+    @State private var scope: Scope = .today
     @State private var selectedMeal: MealType = .breakfast
     @State private var addedMessage: String?
     @Environment(\.modelContext) private var context
 
     init(group: String) {
         self.group = group
-        let start = Calendar.current.startOfDay(for: Date())
-        let end = Calendar.current.date(byAdding: .day, value: 1, to: start)!
-        _logs = Query(
-            filter: #Predicate<FoodLogItem> { $0.date >= start && $0.date < end },
-            sort: \FoodLogItem.date
-        )
+        _logs = Query(sort: \FoodLogItem.date)
     }
 
     var filteredFoods: [FoodItem] {
@@ -383,33 +381,45 @@ struct FoodListView: View {
         }
     }
 
+    var startOfToday: Date { Calendar.current.startOfDay(for: Date()) }
+    var startOfTomorrow: Date { Calendar.current.date(byAdding: .day, value: 1, to: startOfToday)! }
+
+    var logsForScope: [FoodLogItem] {
+        switch scope {
+        case .today:
+            return logs.filter { $0.date >= startOfToday && $0.date < startOfTomorrow }
+        case .all:
+            return logs
+        }
+    }
+
     var mealLogs: [FoodLogItem] {
-        logs.filter { $0.meal == selectedMeal.rawValue }
+        logsForScope.filter { $0.meal == selectedMeal.rawValue }
     }
 
     func caloriesForMeal(_ meal: MealType) -> Int {
-        logs.filter { $0.meal == meal.rawValue }.map(\.calories).reduce(0, +)
+        logsForScope.filter { $0.meal == meal.rawValue }.map(\.calories).reduce(0, +)
     }
 
     var totalCalories: Int {
-        logs.map(\.calories).reduce(0, +)
+        logsForScope.map(\.calories).reduce(0, +)
     }
 
-     var totalProtein: Double {
-         logs.reduce(0) { $0 + $1.protein }
-     }
+    var totalProtein: Double {
+        logsForScope.reduce(0) { $0 + $1.protein }
+    }
 
-     var totalSugar: Double {
-         logs.reduce(0) { $0 + $1.sugar }
-     }
+    var totalSugar: Double {
+        logsForScope.reduce(0) { $0 + $1.sugar }
+    }
 
-     var totalSaturatedFat: Double {
-         logs.reduce(0) { $0 + $1.saturatedFat }
-     }
+    var totalSaturatedFat: Double {
+        logsForScope.reduce(0) { $0 + $1.saturatedFat }
+    }
 
-     var totalSodium: Int {
-         logs.reduce(0) { $0 + $1.sodium }
-     }
+    var totalSodium: Int {
+        logsForScope.reduce(0) { $0 + $1.sodium }
+    }
 
     var body: some View {
         ZStack {
@@ -442,6 +452,14 @@ struct FoodListView: View {
                      .cornerRadius(12)
                 }
                 Section {
+                    Picker("Show", selection: $scope) {
+                        ForEach(Scope.allCases) { s in
+                            Text(s.rawValue).tag(s)
+                        }
+                    }
+                    .pickerStyle(.segmented)
+                    .listRowInsets(EdgeInsets(top: 8, leading: 16, bottom: 8, trailing: 16))
+
                     Picker("Meal", selection: $selectedMeal) {
                         ForEach(MealType.allCases) { meal in
                             Text(meal.rawValue).tag(meal)
@@ -538,6 +556,7 @@ struct FoodListView: View {
             meal: selectedMeal.rawValue
         )
         context.insert(item)
+        try? context.save()
         addedMessage = "\(food.name) added to \(selectedMeal.rawValue) (\(food.calories) Cal)"
     }
 
@@ -611,3 +630,4 @@ struct FoodDetailView: View {
     ContentView()
         .modelContainer(for: FoodLogItem.self, inMemory: true)
 }
+
